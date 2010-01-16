@@ -17,3 +17,9 @@ If you are on a Macintosh, then "TextMate":http://macromates.com/ is a really gr
 h2. Ok, I'm convinced... Now what?
 
 Well, feel free to fork, edit, clone, etc. this repository. If you just want to install, you can use the "download" button at the top. Once you've downloaded and unzipped everything, just make sure to rename the folder to "shoes.tmbundle". Then code away!
+
+h2. Installing
+
+cd ~/Library/Application\ Support/TextMate/Bundles
+git clone git://github.com/rounders/shoes-tmbundle.git Shoes.tmbundle
+
